@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  discount-project
+
+  Created by Nikita Koniukh on 23/07/2019.
+  Copyright © 2019 Nikita Koniukh. All rights reserved.
+*/
+
+//Global
+"OK" = "Окей";
+"Oops!" = "Упс!";
+"Yes, of course!" = "Да, конечно!";
+"No" = "Нет";
+"Thank you" = "Спасибо";
+
+//HomeScreenVC
+"Sorry, no Internet connection" = "Извините, нет подключения к интернету";
+"You have no permissions to delete items" = "У вас нет прав на удаление элементов";
+"There are no offers in this category" = "В этой категории нет предложений";
+"Back" = "Назад";
+
+//AdddiscountVC
+"Press the camera button to select the picture" = "Нажмите кнопку камеры, чтобы выбрать изображение";
+"Take a picture" = "Сфотографировать";
+"Select a photo" = "Выберать фото";
+"Cancel" = "Отмена";
+"Confidence" = "Точность";
+
+//FinishAddingProductVC
+"The price can not be zero" = "Цена не может быть нулем";
+"All fields must be filled" = "Все поля должны быть заполнены";
+
+//MapVC
+"Do you want to provide access to your geographic location?" = "Вы хотите предоставить доступ к своему географическому положению?";
+"We want to show you the hottest offers near you!" = "Мы хотим показать вам самые горячие предложения рядом с вами!";
+"store address" = "адрес магазина";
+
+//SwipeDetailVC
+"You have already submitted feedback" = "Вы уже отправили отзыв";
+"Something wrong with this post?" = "Что-то не так с этим постом?";
+"Please let us know by sending an email:" = "Пожалуйста, дайте нам знать, отправив электронное письмо:";
+"Not relevant already" = "Уже не актуально";
+"Post or images are not appropriate." = "Сообщение или изображений не являются подобающим";
+"Thanks for your feedback" = "Спасибо за ваш отзыв";
+"We're doing everything we can to enjoy our app!" = "Мы делаем все возможное, чтобы наслаждаться нашим приложением!";
+
+//AppIntroVC
+"Welcome to the social network of discounts and offers!" = "Добро пожаловать в социальную сеть скидок!";
+"This is an easy way to share the best deals in your area" = "Это простой способ поделиться лучшими предложениями в вашем регионе.";
+"You can find different products in the list or on the map" = "Вы можете найти различные продукты в списке или на карте";
+"Rating Discounts" = "Рейтинг скидок";
+"You say this assumption is relevant or not" = "Вы говорите, что это предположение является актуальным или нет.";

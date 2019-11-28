@@ -1,0 +1,195 @@
+
+/* Class = "UIBarButtonItem"; title = "הבא"; ObjectID = "1x3-ce-RRd"; */
+"1x3-ce-RRd.title" = "הבא";
+
+/* Class = "UIBarButtonItem"; title = "חזרה"; ObjectID = "25p-51-sdK"; */
+"25p-51-sdK.title" = "חזרה";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2PU-EJ-aL5"; */
+"2PU-EJ-aL5.text" = "Label";
+
+/* Class = "UISegmentedControl"; 2T9-w6-HeE.segmentTitles[0] = "אוכל"; ObjectID = "2T9-w6-HeE"; */
+"2T9-w6-HeE.segmentTitles[0]" = "אוכל";
+
+/* Class = "UISegmentedControl"; 2T9-w6-HeE.segmentTitles[1] = "ביגוד"; ObjectID = "2T9-w6-HeE"; */
+"2T9-w6-HeE.segmentTitles[1]" = "ביגוד";
+
+/* Class = "UISegmentedControl"; 2T9-w6-HeE.segmentTitles[2] = "קוסמטיקה"; ObjectID = "2T9-w6-HeE"; */
+"2T9-w6-HeE.segmentTitles[2]" = "קוסמטיקה";
+
+/* Class = "UISegmentedControl"; 2T9-w6-HeE.segmentTitles[3] = "אלקטרוניקה"; ObjectID = "2T9-w6-HeE"; */
+"2T9-w6-HeE.segmentTitles[3]" = "אלקטרוניקה";
+
+/* Class = "UILabel"; text = "Sign in"; ObjectID = "2tZ-2a-oyM"; */
+"2tZ-2a-oyM.text" = "היכנס";
+
+/* Class = "UILabel"; text = "10 May, 06:26"; ObjectID = "3IO-qF-bTK"; */
+"3IO-qF-bTK.text" = "10 May, 06:26";
+
+/* Class = "UILabel"; text = "Continiue with Facebook"; ObjectID = "4ZU-MI-pXa"; */
+"4ZU-MI-pXa.text" = "המשך עם פייסבוק";
+
+/* Class = "UIButton"; normalTitle = "להתנתק"; ObjectID = "4ph-bZ-mLP"; */
+"4ph-bZ-mLP.normalTitle" = "להתנתק";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "54H-Bf-bN0"; */
+"54H-Bf-bN0.title" = "Title";
+
+/* Class = "UITextField"; placeholder = "כתובת"; ObjectID = "54S-n9-pYb"; */
+"54S-n9-pYb.placeholder" = "כתובת";
+
+/* Class = "UILabel"; text = "שם החנות:"; ObjectID = "60L-Ve-y2X"; */
+"60L-Ve-y2X.text" = "שם החנות:";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "7CF-2X-nFW"; */
+"7CF-2X-nFW.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "מי פרסם:"; ObjectID = "9Xv-fq-Eca"; */
+"9Xv-fq-Eca.text" = "מי פרסם:";
+
+/* Class = "UIBarButtonItem"; title = "LogOut"; ObjectID = "AgE-1H-fbq"; */
+"AgE-1H-fbq.title" = "LogOut";
+
+/* Class = "UINavigationItem"; title = "הוסף מבצע"; ObjectID = "Avo-Te-dOl"; */
+"Avo-Te-dOl.title" = "הוסף מבצע";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "D79-CI-cfY"; */
+"D79-CI-cfY.placeholder" = "דוא`ל";
+
+/* Class = "UINavigationItem"; title = "Create User"; ObjectID = "Dho-HU-SEf"; */
+"Dho-HU-SEf.title" = "צור משתמש";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "FGR-rx-GPj"; */
+"FGR-rx-GPj.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "FLY-4S-B7Z"; */
+"FLY-4S-B7Z.normalTitle" = "התחברות";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "GJ9-ds-JgO"; */
+"GJ9-ds-JgO.placeholder" = "סיסמה";
+
+/* Class = "UILabel"; text = "בחר בקטגוריה:"; ObjectID = "HOZ-hH-ZPt"; */
+"HOZ-hH-ZPt.text" = "בחר בקטגוריה:";
+
+/* Class = "UILabel"; text = "לחץ על כפתור המצלמה כדי לבחור את התמונה"; ObjectID = "Hxv-id-8e7"; */
+"Hxv-id-8e7.text" = "לחץ על כפתור המצלמה כדי לבחור את התמונה";
+
+/* Class = "UITabBarItem"; title = "בית"; ObjectID = "It4-5h-ZuD"; */
+"It4-5h-ZuD.title" = "בית";
+
+/* Class = "UIBarButtonItem"; title = "אישור"; ObjectID = "Jfh-oR-WeV"; */
+"Jfh-oR-WeV.title" = "אישור";
+
+/* Class = "UILabel"; text = "₪25"; ObjectID = "JrG-6O-pwt"; */
+"JrG-6O-pwt.text" = "₪25";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Jvb-jN-KD3"; */
+"Jvb-jN-KD3.text" = "Title";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "KmB-6u-tF9"; */
+"KmB-6u-tF9.text" = "אין לך חשבון?";
+
+/* Class = "UILabel"; text = "שווה?"; ObjectID = "OPf-6f-AoP"; */
+"OPf-6f-AoP.text" = "שווה?";
+
+/* Class = "UILabel"; text = "store address"; ObjectID = "OVt-wi-mhu"; */
+"OVt-wi-mhu.text" = "store address";
+
+/* Class = "UILabel"; text = "תאריך פרסום:"; ObjectID = "PQG-38-eM9"; */
+"PQG-38-eM9.text" = "תאריך פרסום:";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "QvO-5z-77N"; */
+"QvO-5z-77N.placeholder" = "סיסמה";
+
+/* Class = "UILabel"; text = "רמי לווי"; ObjectID = "Qvw-AR-Ync"; */
+"Qvw-AR-Ync.text" = "רמי לווי";
+
+/* Class = "UILabel"; text = "סע לקנות!"; ObjectID = "RYL-TF-bm6"; */
+"RYL-TF-bm6.text" = "סע לקנות!";
+
+/* Class = "UIButton"; normalTitle = "הוסיף מיקום"; ObjectID = "RZk-NX-xbO"; */
+"RZk-NX-xbO.normalTitle" = "להוסיף מיקום";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "V58-T6-SyY"; */
+"V58-T6-SyY.normalTitle" = "בטל";
+
+/* Class = "UISegmentedControl"; V9Q-YY-Pcz.segmentTitles[0] = "פופולרי"; ObjectID = "V9Q-YY-Pcz"; */
+"V9Q-YY-Pcz.segmentTitles[0]" = "פופולרי";
+
+/* Class = "UISegmentedControl"; V9Q-YY-Pcz.segmentTitles[1] = "אוכל"; ObjectID = "V9Q-YY-Pcz"; */
+"V9Q-YY-Pcz.segmentTitles[1]" = "אוכל";
+
+/* Class = "UISegmentedControl"; V9Q-YY-Pcz.segmentTitles[2] = "ביגוד"; ObjectID = "V9Q-YY-Pcz"; */
+"V9Q-YY-Pcz.segmentTitles[2]" = "ביגוד";
+
+/* Class = "UISegmentedControl"; V9Q-YY-Pcz.segmentTitles[3] = "קוסמטיקה"; ObjectID = "V9Q-YY-Pcz"; */
+"V9Q-YY-Pcz.segmentTitles[3]" = "קוסמטיקה";
+
+/* Class = "UISegmentedControl"; V9Q-YY-Pcz.segmentTitles[4] = "אלקטרוניקה"; ObjectID = "V9Q-YY-Pcz"; */
+"V9Q-YY-Pcz.segmentTitles[4]" = "אלקטרוניקה";
+
+/* Class = "UITabBarItem"; title = "הוסף מבצע"; ObjectID = "VsX-xd-5W1"; */
+"VsX-xd-5W1.title" = "להוסיף מבצע";
+
+/* Class = "UILabel"; text = "₪25"; ObjectID = "W1M-i7-7X9"; */
+"W1M-i7-7X9.text" = "₪25";
+
+/* Class = "UILabel"; text = "הוסף פרטים:"; ObjectID = "Wf2-d9-1Wm"; */
+"Wf2-d9-1Wm.text" = "הוסף פרטים:";
+
+/* Class = "UILabel"; text = "ניקיטה קוניוך"; ObjectID = "YOw-OV-kb9"; */
+"YOw-OV-kb9.text" = "ניקיטה קוניוך";
+
+/* Class = "UINavigationItem"; title = "Log in"; ObjectID = "bEl-Ic-Jh2"; */
+"bEl-Ic-Jh2.title" = "התחברות";
+
+/* Class = "UILabel"; text = "product name"; ObjectID = "dka-5W-GwK"; */
+"dka-5W-GwK.text" = "product name";
+
+/* Class = "UITextField"; placeholder = "username: public"; ObjectID = "emC-ef-ffV"; */
+"emC-ef-ffV.placeholder" = "שם משתמש: ציבורי";
+
+/* Class = "UIButton"; normalTitle = "להתלונן על הפרסום"; ObjectID = "fNl-2F-R28"; */
+"fNl-2F-R28.normalTitle" = "להתלונן על הפרסום";
+
+/* Class = "UILabel"; text = "userName"; ObjectID = "gPu-yl-WGs"; */
+"gPu-yl-WGs.text" = "userName";
+
+/* Class = "UIButton"; normalTitle = "בוא נתחיל...👈"; ObjectID = "iSq-5t-L0Y"; */
+"iSq-5t-L0Y.normalTitle" = "בוא נתחיל...👈";
+
+/* Class = "UILabel"; text = "מחיר:"; ObjectID = "jES-AA-UbP"; */
+"jES-AA-UbP.text" = "מחיר:";
+
+/* Class = "UILabel"; text = "שלום!"; ObjectID = "mHd-5c-Y2R"; */
+"mHd-5c-Y2R.text" = "שלום!";
+
+/* Class = "UIBarButtonItem"; title = "חזרה"; ObjectID = "nrr-UG-fus"; */
+"nrr-UG-fus.title" = "חזרה";
+
+/* Class = "UITextField"; placeholder = "מחיר,  ₪"; ObjectID = "p07-Qn-yjR"; */
+"p07-Qn-yjR.placeholder" = "מחיר,  ₪";
+
+/* Class = "UILabel"; text = "time/date"; ObjectID = "p1Q-Pb-z9T"; */
+"p1Q-Pb-z9T.text" = "time/date";
+
+/* Class = "UIButton"; normalTitle = "Create User"; ObjectID = "pcu-DH-ruN"; */
+"pcu-DH-ruN.normalTitle" = "צור משתמש";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "tFg-Cy-v1b"; */
+"tFg-Cy-v1b.placeholder" = "דוא`ל";
+
+/* Class = "UITextField"; placeholder = "שם חנות"; ObjectID = "tgB-1H-iz1"; */
+"tgB-1H-iz1.placeholder" = "שם חנות";
+
+/* Class = "UITabBarItem"; title = "מפות"; ObjectID = "u2a-7t-hAa"; */
+"u2a-7t-hAa.title" = "מפות";
+
+/* Class = "UITextField"; placeholder = "הזן שם מוצר"; ObjectID = "uhC-uR-KRL"; */
+"uhC-uR-KRL.placeholder" = "הזן שם מוצר";
+
+/* Class = "UILabel"; text = "- או שאתה יכול להשתמש פלטפורמות חברתיות להיכנס -"; ObjectID = "w6N-qM-zgD"; */
+"w6N-qM-zgD.text" = "- או שאתה יכול להשתמש פלטפורמות חברתיות להיכנס -";
+
+/* Class = "UIButton"; normalTitle = "Create User"; ObjectID = "zqu-iv-iBC"; */
+"zqu-iv-iBC.normalTitle" = "צור משתמש";

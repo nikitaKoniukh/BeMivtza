@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  discount-project
+
+  Created by Nikita Koniukh on 23/07/2019.
+  Copyright © 2019 Nikita Koniukh. All rights reserved.
+*/
+
+//Global
+"OK" = "OK";
+"Oops!" = "Oops!";
+"Yes, of course!" = "Yes, of course!";
+"No" = "No";
+"Thank you" = "Thank you";
+
+//HomeScreenVC
+"Sorry, no Internet connection" = "Sorry, no Internet connection";
+"You have no permissions to delete items" = "You have no permissions to delete items";
+"There are no offers in this category" = "There are no offers in this category";
+"Back" = "Back";
+
+//AdddiscountVC
+"Press the camera button to select the picture" = "Press the camera button to select the picture";
+"Take a picture" = "Take a picture";
+"Select a photo" = "Select a photo";
+"Cancel" = "Cancel";
+"Confidence" = "Confidence";
+
+//FinishAddingProductVC
+"The price can not be zero" = "The price can not be zero";
+"All fields must be filled" = "All fields must be filled";
+
+//MapVC
+"Do you want to provide access to your geographic location?" = "Do you want to provide access to your geographic location?";
+"We want to show you the hottest offers near you!" = "We want to show you the hottest offers near you!";
+"store address" = "store address";
+
+//SwipeDetailVC
+"You have already submitted feedback" = "You have already submitted feedback";
+"Something wrong with this post?" = "Something wrong with this post?";
+"Please let us know by sending an email:" = "Please let us know by sending an email:";
+"Not relevant already" = "Not relevant already";
+"Post or image is not valid" = "Post or image is not valid";
+"Thanks for your feedback" = "Thanks for your feedback";
+"We're doing everything we can to enjoy our app!" = "We're doing everything we can to enjoy our app!";
+
+//AppIntroVC
+"Welcome to the social network of discounts and offers!" = "Welcome to the social network of discounts and offers!";
+"This is an easy way to share the best deals in your area" = "This is an easy way to share the best deals in your area";
+"You can find different products in the list or on the map" = "You can find different products in the list or on the map";
+"Rating Discounts" = "Rating Discounts";
+"You say this assumption is relevant or not" = "You say this assumption is relevant or not";

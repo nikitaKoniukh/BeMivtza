@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  discount-project
+
+  Created by Nikita Koniukh on 23/07/2019.
+  Copyright © 2019 Nikita Koniukh. All rights reserved.
+*/
+
+//Global
+
+"OK" = "סבבה";
+"Oops!" = "אופס!";
+"Yes, of course!" = "כן, בטח!";
+"No" = "לא";
+"Thank you" = "תודה";
+
+//HomeScreenVC
+"Sorry, no Internet connection" = "מצטערים, אין חיבור לאינטרנט";
+"You have no permissions to delete items" = "אין לך הרשאות למחוק פריטים";
+"There are no offers in this category" = " אין הצעות בקטגוריה זו";
+"Back" = "חזור";
+
+//AddDiscountVC
+"Press the camera button to select the picture" = "לחץ על כפתור המצלמה כדי לבחור את התמונה";
+"Take a picture" = "לצלם";
+"Select a photo" = "בחר תמונה";
+"Cancel" = "בטל";
+"Confidence" = "אמון";
+
+//FinishAddingProductVC
+"The price can not be zero" = "המחיר לא יכול להיות אפס";
+"All fields must be filled" = "כל השדות חייבים להיות מלאים";
+
+//MapVC
+"Do you want to provide access to your geographic location?" = "האם ברצונך לספק גישה למיקום הגיאוגרפי שלך?";
+"We want to show you the hottest offers near you!" = "אנחנו רוצים להראות לך את ההצעות החמות ביותר בקרבתך!";
+"store address" = "כתובת חנות";
+
+//SwipeDetailVC
+"You have already submitted feedback" = "כבר שלחת משוב";
+"Something wrong with this post?" = "משהו לא בסדר עם הפוסט הזה?";
+"Please let us know by sending an email:" = "הודע לנו על כך על ידי שליחת הודעת אימייל:";
+"Not relevant already" = "לא רלוונטי כבר";
+"Post or image is not valid" = "פרסם או תמונה אינה חוקית";
+"Thanks for your feedback" = "תודה על המשוב שלך";
+"We're doing everything we can to enjoy our app!" = "אנו עושים הכל כדי שתוכל ליהנות מהאפליקציה שלנו!";
+
+//AppIntroVC
+"Welcome to the social network of discounts and offers!" = "ברוכים הבאים לרשת חברתית של הנחות ומבצעים!";
+"This is an easy way to share the best deals in your area" = "זוהי דרך קלה לשתף את העסקאות הטובות ביותר באזור שלך";
+"You can find different products in the list or on the map" = "אתה יכול למצוא מוצרים שונים ברשימה או על המפה";
+"Rating Discounts" = "דירוג הנחות";
+"You say this assumption is relevant or not" = "אתה אומר הנחה זו רלוונטית או לא";
